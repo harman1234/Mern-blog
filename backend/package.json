@@ -1,0 +1,25 @@
+{
+  "name": "z-blog",
+  "version": "1.0.0",
+  "description": "An avance blog ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harman1234/Mern-blog.git"
+  },
+  "keywords": [
+    "blog",
+    "z-blog",
+    "an",
+    "advanceblog"
+  ],
+  "author": "harman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harman1234/Mern-blog/issues"
+  },
+  "homepage": "https://github.com/harman1234/Mern-blog#readme"
+}
