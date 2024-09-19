@@ -1,0 +1,16 @@
+.editorContainer{
+    width: 100vw;
+    height: 100vh;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.editortooltip{
+    min-height: 50px;
+    width: 100%;
+    background-color: #e3e3e3;
+    display: flex;
+    align-items: center;
+    padding: 20px 20px;
+}

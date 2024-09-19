@@ -1,0 +1,5 @@
+.MuiPaginationItem-root {
+    color: white !important;  /* This would override the default color */
+    border-color: white !important;
+  }
+  
